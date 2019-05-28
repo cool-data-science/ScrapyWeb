@@ -1,0 +1,11 @@
+
+<HTML>
+<HEAD>
+<TITLE> Auth Login </TITLE>
+<SCRIPT LANGUAGE="JavaScript">
+window.location.href="http://1.1.1.1/"; 
+</SCRIPT>
+</HEAD>
+<body>
+</body>
+</html>
