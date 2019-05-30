@@ -1,0 +1,22 @@
+Server: nginx/1.14.1
+Date: Thu, 30 May 2019 01:31:16 GMT
+Content-Type: application/json;charset=UTF-8
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: RootMessageId
+Access-Control-Expose-Headers: x-service-call
+Access-Control-Expose-Headers: slb-http-protocol-version
+X-Ctrip-Soa2-Route: default-route-rule
+X-Ctrip-Soa2-Route-Group: default-group-key
+X-Ctrip-Soa2-Route-Url: http://10.25.148.135:8080/api/
+X-Ctrip-Soa2-Route-Operation: getactivitydata
+Clogging_Trace_Id: 2599232181381892178
+Rootmessageid: 921812-0a0e16d2-433105-1809554
+Soa20-Service-Latency: 24
+Vary: Accept-Encoding
+X-Gate: ctrip-gate
+X-Gate-Instance: unknown
+X-Originating-Url: http://m.ctrip.com/restapi/soa2/14984/json/getActivityData
+X-Service-Call: 0.027
+X-Gate-Root-Id: 921812-0a0e16d2-433105-1809554
+Content-Encoding: gzip
+Slb-Http-Protocol-Version: HTTP/1.1
