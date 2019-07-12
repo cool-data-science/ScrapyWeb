@@ -1,0 +1,5 @@
+Server: Tengine
+Date: Tue, 02 Jul 2019 12:56:52 GMT
+Set-Cookie: sessionid=a90b51a0-fc9f-4278-96f0-20da5c918eee; Domain=.58.com; Path=/
+Set-Cookie: f=n
+Location: https://callback.58.com/firewall/verifycode?serialId=152805d7a54f53ab263e846deee7f6e1_efc41e0911de4a32ad92abd73479b7b9&code=22&sign=4906504ac3fa9fd98ef0d09a63aa2993&namespace=58.com&url=https%3A%2F%2Fcd.58.com%2Fchufangqiepei%2F

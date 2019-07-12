@@ -1,0 +1,7 @@
+Server: Tengine
+Date: Tue, 02 Jul 2019 14:03:02 GMT
+Set-Cookie: sessionid=3e47ced0-3000-4546-bb74-9d59f51d9daa; Domain=.58.com; Path=/
+Set-Cookie: f=n
+Set-Cookie: id58=e87rZl0bZBZZljL/AyXMAg==; expires=Thu, 01-Jul-21 14:03:02 GMT; domain=58.com; path=/
+Location: https://callback.58.com/firewall/verifycode?serialId=bb3bd241971d283a97d5c3ff07971879_08ed6a69a1c345a9b51e02ce6e395a98&code=22&sign=69e9edf87fa15b5abab27fd6fca2f9a3&namespace=58.com&url=https%3A%2F%2Fcd.58.com%2Fxingzhengzongjian%2F
+P3P: policyref="/w3c/p3p.xml", CP="CUR ADM OUR NOR STA NID"

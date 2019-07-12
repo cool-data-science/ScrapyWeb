@@ -14,14 +14,15 @@ class RPackagesPipeline(object):
         with open('R_pkg_details.csv', 'a', encoding='utf-8') as f:
             # 实例化 csv 对象， 文件名为 R_pkg_details.csv
             self.csv_f = csv.writer(f)
-        
+    
+    def _set_headers(self): 
             # 设置 表头 
-            self.headers = ['Pkg_name', 'Published', 'Author','Version', 'Depends', 'Imports',
+        self.headers = ['Pkg_name', 'Published', 'Author','Version', 'Depends', 'Imports',
                        'LinkingTo', 'Suggests', 'Maintainer', 'BugReports', 'License',
                        'URL', 'NeedsCompilation', 'Language', 'Materials', 'CRAN checks',
                        'title', 'description', 'In views', 'Copyright',
                        'Citation', 'detail_url']
-            self.csv_f.writerow(self.headers)
+        self.csv_f.writerow(self.headers)
         
     def process_item(self, item, spider):
         

@@ -1,0 +1,5 @@
+Server: Tengine
+Date: Tue, 02 Jul 2019 12:56:52 GMT
+Set-Cookie: sessionid=f68c1b45-e8ff-4813-95bb-02eda02f8317; Domain=.58.com; Path=/
+Set-Cookie: f=n
+Location: https://callback.58.com/firewall/verifycode?serialId=152805d7a54f53ab263e846deee7f6e1_7fbbfe6cb62e453297df08869bb76d06&code=22&sign=99d514cf9c78805be477f3cff1fc17d6&namespace=58.com&url=https%3A%2F%2Fcd.58.com%2Fhouchuczg%2F
